@@ -13,7 +13,7 @@
 
 </div>
 
-## ✨ Features
+## Features
 - New control center UI
 - Choose how many tiles are shown
 - Custom colours for tiles and toggles
@@ -21,21 +21,21 @@
 - Super volume boost up to 200%
 - Fixes the volume slider icon disappearing on MIUI ROMs
 
-## 📋 Requirements
+## Requirements
 - HyperOS 1 or MIUI 13–14
 - Android 12 or newer
 - Magisk
 
-## 📥 Installation
+## Installation
 1. Download the latest zip from [**Releases**](https://github.com/Mods-Center/HyperOS-Plugin/releases/latest).
 2. Flash it in Magisk, KernelSU or APatch.
 3. If the panel doesn't open, reboot once more.
 4. Reboot your device.
 
-## ⚠️ Notes
+## Notes
 - MIUI 14 (Android 13) and newer: Signature verification must be disabled. Flash [Apk Protection Patch](https://github.com/Mods-Center/Apk-Protection-Patch) or [Apk Signature Verification Patch](https://github.com/Mods-Center/Apk-Signature-Verification-Patch) first, or use the Core Patch LSPosed module.
 
-## 📸 Screenshots
+## Screenshots
 <p align="center">
   <img src="https://github.com/Mods-Center/HyperOS-Plugin/assets/83476983/a9b67d4f-f0be-428f-978b-529bb7e94f19" width="23%" alt="HyperOS Plugin (HyperOS 1)"/>
   <img src="https://github.com/Mods-Center/HyperOS-Plugin/assets/83476983/17dd50c1-dd55-46d8-8b09-facb340b312d" width="23%" alt="HyperOS Plugin (HyperOS 1)"/>
@@ -59,8 +59,8 @@
 
 <div align="center">
 
-Made by **[Kashi](https://t.me/kakashi1v1)** · part of **[Mods Center](https://github.com/Mods-Center)**
+Made by **[🅺🅰🆂🅷🅸](https://t.me/kakashi1v1)** · part of **[Mods Center](https://github.com/Mods-Center)**
 
-[📢 Channel](https://t.me/kashis_cringey_stuffs) · [💬 Support group](https://t.me/bootloop_discussion) · [🐞 Report a bug](https://github.com/Mods-Center/HyperOS-Plugin/issues)
+[Channel](https://t.me/kashis_cringey_stuffs) · [Support group](https://t.me/bootloop_discussion) · [Report a bug](https://github.com/Mods-Center/HyperOS-Plugin/issues)
 
 </div>
